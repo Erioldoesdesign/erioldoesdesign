@@ -1,6 +1,6 @@
 ![Eriol's banner that is mint green with a pink fox in the bottom right reading Design, Empathy, Curiousity, Community](/readme.jpg)
 
-### Hello friend, I'm Eriol Fox! my pronouns are they/them 🦊
+# Hello friend, I'm Eriol Fox! my pronouns are they/them 🦊
 
 
 ## 🤔 I’m currently...
