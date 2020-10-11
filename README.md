@@ -47,7 +47,7 @@
 - Designing experiences for the terminally ill and their carers
 
 ## 📫 How to reach me...
-- On twitter [@erioldoesdesign]()
+- On twitter [@erioldoesdesign](https://twitter.com/EriolDoesDesign)
 - On email [erioldoesdesign@gmail.com](erioldoesdesign@gmail.com)
 - My website [erioldoesdesign.com](https://erioldoesdesign.com/)
 
