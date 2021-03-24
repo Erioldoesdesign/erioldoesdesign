@@ -4,12 +4,14 @@
 
 Find my website portfolio of design work here: https://erioldoesdesign.com/
 
+<a href='https://ko-fi.com/G2G523TW3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 ## 🤔 I’m currently...
 - Working as a UX and Product Designer at [Open Food Network](https://openfoodnetwork.org/)
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
 - Also helping the community grow at [Open IDEO London chapter](https://chapters.openideo.com/london-chapter/)
-- Starting a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects.
+- Starting a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/)
 - Part of the design team at [Mutualaid.world](https://mutualaid.world/)
@@ -58,4 +60,5 @@ Find my website portfolio of design work here: https://erioldoesdesign.com/
 - I love video games and its one of my only 'vices'. I literally sunk 2 weeks of gameplay into my first FF7 run 🎮
 - I'm low key a practicing witch but haven't found a coven yet 🧹
 - I like boats ⛵
+
 
