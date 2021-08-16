@@ -8,15 +8,15 @@ Find my website portfolio of design work here: https://erioldoesdesign.com/
 
 
 ## 🤔 I’m currently...
-- Currently seeking PT (3.5 days) permenant design position or contracts. Preferably in the tech, OSS or human rights space.
+- Currently seeking Part-time (3.5 - 4 days flexi) permanent design position or contracts. Preferably in the tech, OSS or human rights space.
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
-- Starting a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
+- Doing a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Helping the community grow at [Open IDEO London chapter](https://chapters.openideo.com/london-chapter/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
-- Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/)
+- Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
 - Part of the design team at [Mutualaid.world](https://mutualaid.world/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.com/speaking-conferences/)
-- Mentoring two(+) early career designers!
+- Mentoring two(+) early career designers! Via private mentoring and [ADP List](https://adplist.org/mentors/eriol-fox)
 
 ## 🗝️ I was part of...
 - Leading UX and Product Design at [Open Food Network](https://openfoodnetwork.org/)
