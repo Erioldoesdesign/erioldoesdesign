@@ -2,7 +2,7 @@
 
 # Hello friend, I'm Eriol Fox! my pronouns are they/them 🦊
 
-Find my website portfolio of design work here: https://erioldoesdesign.com/
+Find my website portfolio of design work here: https://erioldoesdesign.github.io/
 
 <a href='https://ko-fi.com/G2G523TW3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
