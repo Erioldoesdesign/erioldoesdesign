@@ -9,7 +9,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 
 ## 🤔 I’m currently...
 - Working Part-time at [simplysecure.org](https://simplysecure.org/) where I do design and product management for OSS specifically [Hypha](https://www.hypha.app/)
-- - Doing a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
+- Doing a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
