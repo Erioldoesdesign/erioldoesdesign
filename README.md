@@ -8,13 +8,12 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 
 
 ## 🤔 I’m currently...
-- Working Part-time at [simplysecure.org](https://simplysecure.org/) where I do design and product management for OSS specifically [Hypha](https://www.hypha.app/)
+- Working ~Part-time~ Full-time at [simplysecure.org](https://simplysecure.org/) where I do design and product management for OSS specifically [Hypha](https://www.hypha.app/) and [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to)
 - Doing a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
 - Helping the community grow at [Open IDEO London chapter](https://chapters.openideo.com/london-chapter/)
-- Part of the design team at [Mutualaid.world](https://mutualaid.world/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.com/speaking-conferences/)
 - Mentoring two(+) early career designers! Via private mentoring and [ADP List](https://adplist.org/mentors/eriol-fox)
 
@@ -23,18 +22,20 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Design team at [Ushahidi](http://ushahidi.com/)
 - Open Source Designer at [Foss Responders](https://fossresponders.com/)
 - Decor and game jam co-ordinator at [Bristol Pride](https://bristolpridegamejam.itch.io/)
+- Part of the design team at [Mutualaid.world](https://github.com/factn/Resilience-Design)
 
 
 ## 📚 I’m learning...
-- Better collaboration with dev + design
+- Better collaboration with dev + design in OSS
 - FE coding skills
-- Service design in the digital space
-- Food systems and logistics
+- Service design in the OSS and human rights tech space
 - History and community of OSS
+- Docker and other more dev processes
 
 ## 🐝 I’m looking people to collaborate with me on...
 - A OSS designer focus project called [Open Design](https://github.com/Erioldoesdesign/opendesign) which started at Ushahidi
 - OSS projects that want to grow their design maturity
+- 
 - A mentoring partnership or co-op in OSS design for early career designers
 
 ## 🆘 I’m looking for help with...
