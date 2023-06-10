@@ -4,18 +4,17 @@
 
 Find my website portfolio of design work here: https://erioldoesdesign.github.io/
 
-<a href='https://ko-fi.com/G2G523TW3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[Sponsor Me!](https://github.com/sponsors/erioldoesdesign)
 
 
 ## 🤔 I’m currently...
-- Working ~Part-time~ Full-time at [superbloom.design](https://superbloom.design/) where I do design and product management for OSS specifically [Hypha](https://www.hypha.app/) and [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to)
+- Working Part-time at [superbloom.design](https://superbloom.design/) where I do design, UX and research. Previously I was on OSS product management for [Hypha](https://www.hypha.app/) and delivered [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to) and [USER](https://github.com/simplysecure/USER_project).
 - Doing a PhD in Computer Science at [Newcastle univeristy](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
-- Helping the community grow at [Open IDEO London chapter](https://chapters.openideo.com/london-chapter/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.com/speaking-conferences/)
-- Mentoring two(+) early career designers! Via private mentoring and [ADP List](https://adplist.org/mentors/eriol-fox)
+- Taking a break from mentoring via [ADP List](https://adplist.org/mentors/eriol-fox) for the next year
 
 ## 🗝️ I was part of...
 - Leading UX and Product Design at [Open Food Network](https://openfoodnetwork.org/)
@@ -35,7 +34,6 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 ## 🐝 I’m looking people to collaborate with me on...
 - A OSS designer focus project called [Open Design](https://github.com/Erioldoesdesign/opendesign) which started at Ushahidi
 - OSS projects that want to grow their design maturity
-- 
 - A mentoring partnership or co-op in OSS design for early career designers
 
 ## 🆘 I’m looking for help with...
@@ -55,6 +53,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 
 ## 📫 How to reach me...
 - On twitter [@erioldoesdesign](https://twitter.com/EriolDoesDesign)
+- On Mastodon[hachyderm.io/@erioldoesdesign](https://hachyderm.io/@erioldoesdesign)
 - On email [erioldoesdesign@gmail.com](erioldoesdesign@gmail.com)
 - My website [erioldoesdesign.com](https://erioldoesdesign.com/)
 
@@ -62,7 +61,3 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - I grew up in a pub but I don't drink! 🍻
 - I love TTRPGS (table top role playing games) like Dungeons and Dragons. I play 1+ games per week! 🐉
 - I love video games and its one of my only 'vices'. I literally sunk 2 weeks of gameplay into my first FF7 run 🎮
-- I'm low key a practicing witch but haven't found a coven yet 🧹
-- I like boats ⛵
-
-
