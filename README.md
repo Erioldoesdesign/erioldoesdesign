@@ -14,7 +14,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
-- Speaking at [Various tech and design conferences](https://erioldoesdesign.com/speaking-conferences/)
+- Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/))
 - Taking a break from mentoring via [ADP List](https://adplist.org/mentors/eriol-fox) for the next year
 
 ## 🗝️ I was part of...
@@ -43,7 +43,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Support in helping with various designer communities
 
 ## 📟 Ask me about...
-[Speaking at events and conferences](https://erioldoesdesign.com/speaking-conferences/) on the following topics:
+[Speaking at events and conferences](https://erioldoesdesign.github.io/speaking/)) on the following topics:
 
 - Designing for humanitarian tech, tech for good and NGO’s
 - Open Source Design, Design in the OSS space and Design documentation
