@@ -56,7 +56,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - On twitter [@erioldoesdesign](https://twitter.com/EriolDoesDesign)
 - On Mastodon[hachyderm.io/@erioldoesdesign](https://hachyderm.io/@erioldoesdesign)
 - On email [erioldoesdesign@gmail.com](erioldoesdesign@gmail.com)
-- My website [https://erioldoesdesign.github.io/)](https://erioldoesdesign.github.io/))
+- My website [https://erioldoesdesign.github.io/)](https://erioldoesdesign.github.io/)
 
 ## Fun facts...
 - I grew up in a pub but I don't drink! 🍻
