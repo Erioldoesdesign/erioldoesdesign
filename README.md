@@ -43,7 +43,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Support in helping with various designer communities
 
 ## 📟 Ask me about...
-[Speaking at events and conferences](https://erioldoesdesign.github.io/speaking/)) on the following topics:
+[Speaking at events and conferences](https://erioldoesdesign.github.io/speaking/) on the following topics:
 
 - Designing for humanitarian tech, tech for good and NGO’s
 - Open Source Design, Design in the OSS space and Design documentation
