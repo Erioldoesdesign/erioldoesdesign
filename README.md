@@ -8,16 +8,18 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 
 
 ## 🤔 I’m currently...
-- Looking for advice and opportunities to start writing a book on doing open source design and design in the open. Please email me :) 
-- Working Part-time at [superbloom.design](https://superbloom.design/) where I do Design, UX and research. Previously I was on OSS product management for [Hypha](https://www.hypha.app/) and delivered [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to) and [USER](https://github.com/simplysecure/USER_project).
-- Doing a PhD in Computer Science at [Newcastle university](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
-- Helping keep the community going at [Open Source Design](https://opensourcedesign.net/)
-- Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
+- Looking for advice and opportunities to start writing a book on doing open source design and design in the open. Please email me :)
+- Working full-time at https://www.openhomefoundation.org/ on [Music Assistant](https://www.music-assistant.io/) and [ESP Home](https://esphome.io/)
+- Core Maintainer over at [Open Source Design](https://opensourcedesign.net/) which also invovles running a FOSDEM dev room every year
+- Advisory council member over at [The Open Technology Fund](https://www.opentech.fund/) and [The Organization for Ethical Source (OES)](https://ethicalsource.dev/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
-- Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/))
+- Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/)
+- - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Taking a break from mentoring via [ADP List](https://adplist.org/mentors/eriol-fox) for the next year
 
 ## 🗝️ I was part of...
+- Senior Designer & UX Research and OSS product management at [superbloom.design](https://superbloom.design/). I was on OSS product management for [Hypha](https://www.hypha.app/) and delivered [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to) and [USER](https://github.com/simplysecure/USER_project).
+- Doing a PhD in Computer Science at [Newcastle university](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Leading UX and Product Design at [Open Food Network](https://openfoodnetwork.org/)
 - Design Lead at [Ushahidi](http://ushahidi.com/)
 - Open Source Designer at [Foss Responders](https://fossresponders.com/)
