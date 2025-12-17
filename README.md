@@ -14,7 +14,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Advisory council member over at [The Open Technology Fund](https://www.opentech.fund/) and [The Organization for Ethical Source (OES)](https://ethicalsource.dev/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/)
-- - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
+- Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
 - Taking a break from mentoring via [ADP List](https://adplist.org/mentors/eriol-fox) for the next year
 
 ## 🗝️ I was part of...
