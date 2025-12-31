@@ -10,7 +10,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 ## 🤔 I’m currently...
 - Looking for advice and opportunities to start writing a book on doing open source design and design in the open. Please email me :)
 - Working full-time at https://www.openhomefoundation.org/ on [Music Assistant](https://www.music-assistant.io/) and [ESP Home](https://esphome.io/)
-- Core Maintainer over at [Open Source Design](https://opensourcedesign.net/) which also invovles running a FOSDEM dev room every year
+- Core Maintainer over at [Open Source Design](https://opensourcedesign.net/) which also involves running a FOSDEM dev room every year
 - Advisory council member over at [The Open Technology Fund](https://www.opentech.fund/) and [The Organization for Ethical Source (OES)](https://ethicalsource.dev/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/)
