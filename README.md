@@ -55,7 +55,7 @@ Find my website portfolio of design work here: https://erioldoesdesign.github.io
 - Designing experiences for the terminally ill and their carers
 
 ## 📫 How to reach me...
-- On twitter [@erioldoesdesign](https://twitter.com/EriolDoesDesign)
+- On bluesky [@erioldoesdesign](https://bsky.app/profile/erioldoesdesign.bsky.social)
 - On Mastodon[hachyderm.io/@erioldoesdesign](https://hachyderm.io/@erioldoesdesign)
 - On email [erioldoesdesign@gmail.com](erioldoesdesign@gmail.com)
 - My website [https://erioldoesdesign.github.io/)](https://erioldoesdesign.github.io/)
