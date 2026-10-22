@@ -1,23 +1,27 @@
-![Eriol's banner that is mint green with a pink fox in the bottom right reading Design, Empathy, Curiousity, Community](/readme.jpg)
+![Eriol's banner that is mint green with a pink fox in the bottom right reading Design, Empathy, Curiosity, Community](/readme.jpg)
 
 # Hello friend, I'm Eriol Fox! my pronouns are they/them 🦊
 
 Find my website portfolio of design work here: https://erioldoesdesign.github.io/
 
-[Sponsor Me!](https://github.com/sponsors/erioldoesdesign)
+[Github sponsor me!](https://github.com/sponsors/erioldoesdesign)
+[Pateron coming soon!](#)
+[Buy me a Kofi](https://ko-fi.com/erioldoesdesign)
 
 
 ## 🤔 I’m currently...
+- Looking for full-time remote or UK based work as a senior designer focused on UX, Product or Service design.
+- A collective member over at [Lockdown.systems](https://lockdown.systems/).
 - Looking for advice and opportunities to start writing a book on doing open source design and design in the open. Please email me :)
-- Working full-time at https://www.openhomefoundation.org/ on [Music Assistant](https://www.music-assistant.io/) and [ESP Home](https://esphome.io/)
 - Core Maintainer over at [Open Source Design](https://opensourcedesign.net/) which also involves running a FOSDEM dev room every year
 - Advisory council member over at [The Open Technology Fund](https://www.opentech.fund/) and [The Organization for Ethical Source (OES)](https://ethicalsource.dev/)
 - Part of [Sustaining Design & UX working group](https://sustainoss.org/working-groups/design-and-ux/) including our [podcast SOS Design](https://sosdesign.sustainoss.org/)
 - Speaking at [Various tech and design conferences](https://erioldoesdesign.github.io/speaking/)
 - Participating in [Human Rights Centred Design Community](https://hrcd.pubpub.org/)
-- Taking a break from mentoring via [ADP List](https://adplist.org/mentors/eriol-fox) for the next year
+- Taking a break from mentoring junior designers until a better system than ADPlist surfaces.
 
 ## 🗝️ I was part of...
+- Product Designer at [https://www.openhomefoundation.org/](https://www.openhomefoundation.org/) on [Music Assistant](https://www.music-assistant.io/) and [ESP Home](https://esphome.io/)
 - Senior Designer & UX Research and OSS product management at [superbloom.design](https://superbloom.design/). I was on OSS product management for [Hypha](https://www.hypha.app/) and delivered [A Dev's guide to...](https://github.com/simplysecure/devs-guide-to) and [USER](https://github.com/simplysecure/USER_project).
 - Doing a PhD in Computer Science at [Newcastle university](https://www.ncl.ac.uk/) with support from [Northern Bridge fund](http://www.northernbridge.ac.uk/) looking at how designers participate in humanitarian open source software projects. [See the open research in the github repo](https://github.com/Erioldoesdesign/Design_HOSS_PhD).
 - Leading UX and Product Design at [Open Food Network](https://openfoodnetwork.org/)
